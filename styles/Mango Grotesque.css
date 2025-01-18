@@ -1,34 +1,41 @@
 @font-face {
   font-family: "Mango Grotesque";
-  src: url("../Web-PS/MangoGrotesque-Regular.woff2") format("woff2");
+  src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-Regular.woff2")
+    format("woff2");
+  /* src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-Regular.woff2") format("woff2"); */
+
   font-weight: 400; /* Normal */
   font-style: normal;
 }
 
 @font-face {
   font-family: "Mango Grotesque";
-  src: url("../Web-PS/MangoGrotesque-Medium.woff2") format("woff2");
+  src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-Medium.woff2")
+    format("woff2");
   font-weight: 500; /* Medium */
   font-style: normal;
 }
 
 @font-face {
   font-family: "Mango Grotesque";
-  src: url("../Web-PS/MangoGrotesque-Light.woff2") format("woff2");
+  src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-Light.woff2")
+    format("woff2");
   font-weight: 300; /* Light */
   font-style: normal;
 }
 
 @font-face {
   font-family: "Mango Grotesque";
-  src: url("../Web-PS/MangoGrotesque-Bold.woff2") format("woff2");
+  src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-Bold.woff2")
+    format("woff2");
   font-weight: 700; /* Bold */
   font-style: normal;
 }
 
 @font-face {
   font-family: "Mango Grotesque";
-  src: url("../Web-PS/MangoGrotesque-ExtraBold.woff2") format("woff2");
+  src: url("https://salaheddineaz47.github.io/MangoGrotesque/Web-PS/MangoGrotesque-ExtraBold.woff2")
+    format("woff2");
   font-weight: 800; /* ExtraBold */
   font-style: normal;
 }
